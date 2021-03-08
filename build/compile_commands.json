@@ -1,0 +1,17 @@
+[
+{
+  "directory": "/Users/rajuspandora.net/Documents/personal-projects/game_dev/cpp_env/build",
+  "command": "/usr/bin/clang++  -I/usr/local/Cellar/sdl2/2.0.12_1/include/SDL2 -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk -o CMakeFiles/MOBA.dir/main.cpp.o -c /Users/rajuspandora.net/Documents/personal-projects/game_dev/cpp_env/main.cpp",
+  "file": "/Users/rajuspandora.net/Documents/personal-projects/game_dev/cpp_env/main.cpp"
+},
+{
+  "directory": "/Users/rajuspandora.net/Documents/personal-projects/game_dev/cpp_env/build",
+  "command": "/usr/bin/clang++  -I/usr/local/Cellar/sdl2/2.0.12_1/include/SDL2 -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk -o CMakeFiles/MOBA.dir/game.cpp.o -c /Users/rajuspandora.net/Documents/personal-projects/game_dev/cpp_env/game.cpp",
+  "file": "/Users/rajuspandora.net/Documents/personal-projects/game_dev/cpp_env/game.cpp"
+},
+{
+  "directory": "/Users/rajuspandora.net/Documents/personal-projects/game_dev/cpp_env/build",
+  "command": "/usr/bin/clang++  -I/usr/local/Cellar/sdl2/2.0.12_1/include/SDL2 -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk -o CMakeFiles/MOBA.dir/objects.cpp.o -c /Users/rajuspandora.net/Documents/personal-projects/game_dev/cpp_env/objects.cpp",
+  "file": "/Users/rajuspandora.net/Documents/personal-projects/game_dev/cpp_env/objects.cpp"
+}
+]
